@@ -20,3 +20,10 @@ a workflow to build front end applications using CLI.
 I need to find someone to ask that knows Angular internal to see if there
 is any possibility to create Angular component and compile it down to
 JSP
+
+## Actions
+
+* Upgrade internal UI framework to use Angular to build WebComponents
+* Implement jest testing for internal UI framework
+* Add guidelines for using CLI flow to add component
+* Research a way to use Angular to compile component to static file (HTML or JSP) – whether it has a render function or not
